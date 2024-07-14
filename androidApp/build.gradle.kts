@@ -5,6 +5,7 @@ plugins {
 }
 
 android {
+
     namespace = "com.nkmnews.nkmnews.android"
     compileSdk = 35
     defaultConfig {
